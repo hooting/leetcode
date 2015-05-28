@@ -18,4 +18,5 @@ Welcome to the LeetCode Solutions!
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/FindMinimumInRotatedSortedArrayII.cpp)|Hard|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/hooting/leetcode/blob/master/FindPeakElement.cpp)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/MinimumSizeSubarraySum.cpp)|Medium|
+|217|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSumIII.cpp)|Medium|
 
