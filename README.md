@@ -4,6 +4,7 @@ Welcome to the LeetCode Solutions!
 |---| ----- | -------- | ---------- |
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/NextPermutation.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSum.cpp)|Medium|
+|39|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSumII.cpp)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/hooting/leetcode/blob/master/FirstMissingPositive.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/JumpGameII.cpp)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/SpiralMatrix.cpp)|Medium|
