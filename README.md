@@ -25,4 +25,5 @@ Welcome to the LeetCode Solutions!
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/MinimumSizeSubarraySum.cpp)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSumIII.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/ContainsDuplicate.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/ContainsDuplicateII.cpp)|Easy|
 
