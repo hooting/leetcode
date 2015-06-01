@@ -19,6 +19,7 @@ Welcome to the LeetCode Solutions!
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/FindMinimumInRotatedSortedArrayII.cpp)|Hard|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/hooting/leetcode/blob/master/FindPeakElement.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/hooting/leetcode/blob/master/HappyNumber.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/hooting/leetcode/blob/master/CountPrimes.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/IsomorphicStrings.cpp)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/MinimumSizeSubarraySum.cpp)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSumIII.cpp)|Medium|
