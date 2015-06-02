@@ -2,6 +2,7 @@ Welcome to the LeetCode Solutions!
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/hooting/leetcode/blob/master/AddTwoNumbers.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hooting/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/ValidSudoku.cpp)|Easy|
