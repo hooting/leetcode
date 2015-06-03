@@ -10,6 +10,7 @@ Welcome to the LeetCode Solutions!
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSumII.cpp)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/hooting/leetcode/blob/master/FirstMissingPositive.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/JumpGameII.cpp)|Hard|
+|49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](https://github.com/hooting/leetcode/blob/master/Anagrams.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/SpiralMatrix.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/hooting/leetcode/blob/master/JumpGame.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/hooting/leetcode/blob/master/InsertInterval.cpp)|Hard|
