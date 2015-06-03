@@ -22,6 +22,7 @@ Welcome to the LeetCode Solutions!
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/hooting/leetcode/blob/master/FindMinimumInRotatedSortedArray.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/FindMinimumInRotatedSortedArrayII.cpp)|Hard|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/hooting/leetcode/blob/master/FindPeakElement.cpp)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/hooting/leetcode/blob/master/RepeatedDNASequences.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/hooting/leetcode/blob/master/HappyNumber.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/hooting/leetcode/blob/master/CountPrimes.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/IsomorphicStrings.cpp)|Easy|
