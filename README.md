@@ -4,6 +4,7 @@ Welcome to the LeetCode Solutions!
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/hooting/leetcode/blob/master/AddTwoNumbers.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hooting/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.cpp)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/hooting/leetcode/blob/master/LongestPalindromicSubstring.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/ValidSudoku.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/CombinationSum.cpp)|Medium|
