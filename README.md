@@ -6,6 +6,7 @@ Welcome to the LeetCode Solutions!
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestPalindromicSubstring.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ZigZagConversion.cpp)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSum.cpp)|Medium|
