@@ -4,6 +4,7 @@ Welcome to the LeetCode Solutions!
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/AddTwoNumbers.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestSubstringWithoutRepeatingCharacters.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MedianOfTwoSortedArrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestPalindromicSubstring.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ZigZagConversion.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Easy|
