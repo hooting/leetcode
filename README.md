@@ -8,6 +8,7 @@ Welcome to the LeetCode Solutions!
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ZigZagConversion.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/StringToInteger.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/PalindromeNumber.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSum.cpp)|Medium|
