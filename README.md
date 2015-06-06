@@ -10,6 +10,7 @@ Welcome to the LeetCode Solutions!
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/StringToInteger.cpp)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/PalindromeNumber.cpp)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RomanToInteger.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestCommonPrefix.cpp)|Easy
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
