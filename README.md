@@ -13,6 +13,7 @@ Welcome to the LeetCode Solutions!
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/IntegerToRoman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RomanToInteger.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestCommonPrefix.cpp)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LetterCombinationsOfAPhoneNumber.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RemoveNthNodeFromEndOfList.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
