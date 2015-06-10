@@ -10,6 +10,7 @@ Welcome to the LeetCode Solutions!
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/StringToInteger.cpp)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/PalindromeNumber.cpp)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RegularExpressionMatching.cpp)|Hard|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/IntegerToRoman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RomanToInteger.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestCommonPrefix.cpp)|Easy|
