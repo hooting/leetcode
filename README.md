@@ -20,6 +20,7 @@ Welcome to the LeetCode Solutions!
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Hard|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountAndSay.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSum.cpp)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumII.cpp)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FirstMissingPositive.cpp)|Medium|
