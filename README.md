@@ -16,6 +16,7 @@ Welcome to the LeetCode Solutions!
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestCommonPrefix.cpp)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LetterCombinationsOfAPhoneNumber.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RemoveNthNodeFromEndOfList.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MergeTwoSortedLists.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Hard|
