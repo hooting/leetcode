@@ -19,6 +19,7 @@ Welcome to the LeetCode Solutions!
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MergeTwoSortedLists.cpp)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/GenerateParentheses.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MergeKSortedLists.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SwapNodesInPairs.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Hard|
