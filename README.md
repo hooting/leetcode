@@ -22,6 +22,7 @@ Welcome to the LeetCode Solutions!
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SwapNodesInPairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseNodesInK-Group.cpp)|Hard|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ImplementStrStr.cpp)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/DivideTwoIntegers.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Hard|
