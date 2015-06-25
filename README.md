@@ -36,6 +36,7 @@ Welcome to the LeetCode Solutions!
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrix.cpp)|Python|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGame.cpp)|Python|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/InsertInterval.cpp)|Python|Hard|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LengthOfLastWord.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrixII.cpp)|Python|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStock.cpp)|Python|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockII.cpp)|Python|Medium|
