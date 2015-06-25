@@ -1,7 +1,7 @@
 Welcome to the LeetCode Solutions!
 
 | # | Title | C++ | Python | Difficulty |
-|---| ----- | -------- | ---------- |
+|---| ----- | --- | ------ | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/AddTwoNumbers.cpp)|Python|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestSubstringWithoutRepeatingCharacters.cpp)|Python|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MedianOfTwoSortedArrays.cpp)|Python|Hard|
