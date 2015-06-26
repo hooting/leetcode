@@ -39,6 +39,7 @@ Welcome to the LeetCode Solutions!
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LengthOfLastWord.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrixII.cpp)|Python|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddBinary.py)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ClimbingStairs.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStock.cpp)|Python|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockII.cpp)|Python|Medium|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockIII.cpp)|Python|Hard|
