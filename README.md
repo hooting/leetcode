@@ -59,3 +59,4 @@ Welcome to the LeetCode Solutions!
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicate.cpp)|Python|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicateII.cpp)|Python|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/InvertBinaryTree.py)|Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SummaryRanges.py)|Easy|
