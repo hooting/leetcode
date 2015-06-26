@@ -44,6 +44,7 @@ Welcome to the LeetCode Solutions!
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStock.cpp)|Python|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockII.cpp)|Python|Medium|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockIII.cpp)|Python|Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidPalindrome.py)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestConsecutiveSequence.cpp)|Python|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArray.cpp)|Python|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArrayII.cpp)|Python|Hard|
