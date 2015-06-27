@@ -24,6 +24,7 @@ Welcome to the LeetCode Solutions!
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ImplementStrStr.cpp)|Python|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/DivideTwoIntegers.cpp)|Python|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Python|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LongestValidParentheses.py)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Python|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Python|Hard|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountAndSay.cpp)|Python|Easy|
