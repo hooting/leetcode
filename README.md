@@ -32,6 +32,7 @@ Welcome to the LeetCode Solutions!
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumII.cpp)|Python|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FirstMissingPositive.cpp)|Python|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MultiplyStrings.cpp)|Python|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/WildcardMatching.py)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGameII.cpp)|Python|Hard|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/Anagrams.cpp)|Python|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrix.cpp)|Python|Medium|
