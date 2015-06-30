@@ -35,6 +35,7 @@ Welcome to the LeetCode Solutions!
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MultiplyStrings.cpp)|Python|Medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/WildcardMatching.py)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGameII.cpp)|Python|Hard|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Permutations.py)|Medium|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/Anagrams.cpp)|Python|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrix.cpp)|Python|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGame.cpp)|Python|Medium|
