@@ -23,6 +23,7 @@ Welcome to the LeetCode Solutions!
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseNodesInK-Group.cpp)|Python|Hard|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ImplementStrStr.cpp)|Python|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/DivideTwoIntegers.cpp)|Python|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SubstringWithConcatenationOfAllWords.py)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|Python|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LongestValidParentheses.py)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Python|Easy|
