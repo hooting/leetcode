@@ -38,6 +38,7 @@ Welcome to the LeetCode Solutions!
 |46|[Permutations](https://leetcode.com/problems/permutations/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Permutations.py)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PermutationsII.py)|Hard|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/Anagrams.cpp)|Python|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Pow.py)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrix.cpp)|Python|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGame.cpp)|Python|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/InsertInterval.cpp)|Python|Hard|
