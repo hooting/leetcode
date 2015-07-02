@@ -59,6 +59,7 @@ Welcome to the LeetCode Solutions!
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FractionToRecurringDecimal.cpp)|Python|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RepeatedDNASequences.cpp)|Python|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/HappyNumber.cpp)|Python|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RemoveLinkedListElements.py)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountPrimes.cpp)|Python|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/IsomorphicStrings.cpp)|Python|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MinimumSizeSubarraySum.cpp)|Python|Medium|
