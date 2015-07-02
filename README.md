@@ -58,6 +58,7 @@ Welcome to the LeetCode Solutions!
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CompareVersionNumbers.py)|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FractionToRecurringDecimal.cpp)|Python|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RepeatedDNASequences.cpp)|Python|Medium|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ReverseBits.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/NumberOf1Bits.py)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/HouseRobber.py)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/HappyNumber.cpp)|Python|Easy|
