@@ -54,6 +54,7 @@ Welcome to the LeetCode Solutions!
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestConsecutiveSequence.cpp)|Python|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArray.cpp)|Python|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArrayII.cpp)|Python|Hard|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/IntersectionOfTwoLinkedLists.py)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindPeakElement.cpp)|Python|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CompareVersionNumbers.py)|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FractionToRecurringDecimal.cpp)|Python|Medium|
