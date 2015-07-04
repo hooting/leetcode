@@ -76,6 +76,7 @@ Welcome to the LeetCode Solutions!
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|Python|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicate.cpp)|Python|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicateII.cpp)|Python|Easy|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CountCompleteTreeNodes.py)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problemset/algorithms/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RectangleArea.py)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculator.py)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/InvertBinaryTree.py)|Easy|
