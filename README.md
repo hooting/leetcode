@@ -82,4 +82,5 @@ Welcome to the LeetCode Solutions!
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/InvertBinaryTree.py)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculatorII.py)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SummaryRanges.py)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/KthSmallestElementInABST.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PowerOfTwo.py)|Easy|
