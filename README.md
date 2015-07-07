@@ -86,3 +86,4 @@ Welcome to the LeetCode Solutions!
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MajorityElementII.py)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/KthSmallestElementInABST.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PowerOfTwo.py)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ImplementQueueUsingStacks.py)|Easy|
