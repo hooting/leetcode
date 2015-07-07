@@ -79,7 +79,7 @@ Welcome to the LeetCode Solutions!
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CountCompleteTreeNodes.py)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problemset/algorithms/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RectangleArea.py)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculator.py)|Medium|
-|225|[Implement Stack using Queues]()|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ImplementStackUsingQueues.py)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ImplementStackUsingQueues.py)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/InvertBinaryTree.py)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculatorII.py)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SummaryRanges.py)|Easy|
