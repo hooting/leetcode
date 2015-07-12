@@ -45,6 +45,7 @@ Welcome to the LeetCode Solutions!
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LengthOfLastWord.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SpiralMatrixII.cpp)|Python|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PermutationSequence.py)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RotateList.py)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddBinary.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ClimbingStairs.py)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Combinations.py)|Medium|
