@@ -84,6 +84,7 @@ Welcome to the LeetCode Solutions!
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|Python|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicate.cpp)|Python|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicateII.cpp)|Python|Easy|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ContainsDuplicateIII.py)|Medium| 
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MaximalSquare.py)|Medium
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CountCompleteTreeNodes.py)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problemset/algorithms/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RectangleArea.py)|Easy|
