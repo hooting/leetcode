@@ -50,6 +50,7 @@ Welcome to the LeetCode Solutions!
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RotateList.py)|Medium|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidNumber.cpp)|Python|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddBinary.py)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/TextJustification.cpp)|Python|Hard|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Sqrt_X.py)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ClimbingStairs.py)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Combinations.py)|Medium|
