@@ -108,3 +108,4 @@ Welcome to the LeetCode Solutions!
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DeleteNodeInALinkedList.py)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ProductOfArrayExceptSelf.py)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidAnagram.py)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BinaryTreePaths.py)|Easy|
