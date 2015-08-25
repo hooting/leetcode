@@ -110,3 +110,4 @@ Welcome to the LeetCode Solutions!
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidAnagram.py)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BinaryTreePaths.py)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddDigits.py)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/UglyNumber.py)|Easy|
