@@ -107,3 +107,4 @@ Welcome to the LeetCode Solutions!
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LowestCommonAncestorOfABinarySearchTree.py)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DeleteNodeInALinkedList.py)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ProductOfArrayExceptSelf.py)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidAnagram.py)|Easy|
