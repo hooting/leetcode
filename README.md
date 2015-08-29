@@ -111,4 +111,5 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BinaryTreePaths.py)|Java|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddDigits.py)|Java|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/UglyNumber.py)|Java|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/UglyNumberII.java)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/MissingNumber.java)|Medium|
