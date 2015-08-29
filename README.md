@@ -1,4 +1,4 @@
-Welcome to the LeetCode(https://leetcode.com/problemset/algorithms/) Solutions!
+Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions!
 
 | # | Title | C++ | Python | Java | Difficulty |
 |---| ----- | --- | ------ | ---- | ---------- |
