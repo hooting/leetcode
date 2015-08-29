@@ -99,7 +99,7 @@ Welcome to the LeetCode Solutions!
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculatorII.py)|Java|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SummaryRanges.py)|Java|Easy|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MajorityElementII.py)|Java|Medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/KthSmallestElementInABST.py)|C++|Java|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/KthSmallestElementInABST.py)|Java|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PowerOfTwo.py)|Java|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ImplementQueueUsingStacks.py)|Java|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/NumberOfDigitOne.py)|Java|Medium|
