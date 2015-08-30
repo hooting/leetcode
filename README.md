@@ -107,6 +107,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LowestCommonAncestorOfABinarySearchTree.py)|Java|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DeleteNodeInALinkedList.py)|Java|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ProductOfArrayExceptSelf.py)|Java|Medium|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/DifferentWaysToAddParentheses.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidAnagram.py)|Java|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BinaryTreePaths.py)|Java|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddDigits.py)|Java|Easy|
