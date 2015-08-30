@@ -57,6 +57,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |77|[Combinations](https://leetcode.com/problems/combinations/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/Combinations.py)|Java|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RemoveDuplicatesfromSortedListII.py)|Java|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RemoveDuplicateFromSortedList.py)|Java|Easy|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/PartitionList.java)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStock.cpp)|Python|Java|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockII.cpp)|Python|Java|Medium|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/BestTimeToBuyAndSellStockIII.cpp)|Python|Java|Hard|
