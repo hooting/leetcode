@@ -85,14 +85,14 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ReverseLinkedList.py)|Java|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CourseSchedule.py)|Java|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MinimumSizeSubarraySum.cpp)|Python|Java|Medium|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CourseScheduleII.py)|Python|Java|Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CourseScheduleII.py)|Java|Medium|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddAndSearchWord-DataStructureDesign.py)|Java|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/HouseRobberII.py)|Java|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|Python|Java|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicate.cpp)|Python|Java|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicateII.cpp)|Python|Java|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ContainsDuplicateIII.py)|Java|Medium| 
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|C++|Java|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MaximalSquare.py)|Medium
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MaximalSquare.py)|Java|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CountCompleteTreeNodes.py)|Java|Medium|
 |223|[Rectangle Area](https://leetcode.com/problemset/algorithms/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RectangleArea.py)|Java|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/BasicCalculator.py)|Java|Medium|
