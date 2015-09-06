@@ -123,3 +123,5 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/UglyNumberII.java)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/MissingNumber.java)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/IntegerToEnglishWords.java)|Medium|
+|274|[H-Index](https://leetcode.com/problems/h-index/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/H-Index.java)|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/H-IndexII.java)|Medium|
