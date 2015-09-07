@@ -58,6 +58,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RemoveDuplicatesfromSortedListII.py)|Java|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/RemoveDuplicateFromSortedList.py)|Java|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/PartitionList.java)|Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/GrayCode.py)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DecodeWays.py)|Java|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ReverseLinkedListII.py)|Java|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/RestoreIPAddresses.java)|Medium|
