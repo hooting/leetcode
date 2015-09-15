@@ -70,6 +70,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidPalindrome.py)|Java|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LongestConsecutiveSequence.cpp)|Python|Java|Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/PalindromePartitioning.java)|Medium|
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PalindromePartitioningII.py)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArray.cpp)|Python|Java|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FindMinimumInRotatedSortedArrayII.cpp)|Python|Java|Hard|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/IntersectionOfTwoLinkedLists.py)|Java|Easy|
