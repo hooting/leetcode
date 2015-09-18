@@ -81,6 +81,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ExcelSheetColumnTitle.py)|Java|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ExcelSheetColumnNumber.py)|Java|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/FactorialTrailingZeroes.py)|Java|Easy|
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DungeonGame.py)|Java|Hard|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RepeatedDNASequences.cpp)|Python|Java|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ReverseBits.py)|Java|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/NumberOf1Bits.py)|Java|Easy|
