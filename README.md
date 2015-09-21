@@ -100,6 +100,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MinimumSizeSubarraySum.cpp)|Python|Java|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CourseScheduleII.py)|Java|Medium|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/AddAndSearchWord-DataStructureDesign.py)|Java|Medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/WordSearchII.py)|Java|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/HouseRobberII.py)|Java|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/KthLargestElementInAnArray.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|Python|Java|Medium|
