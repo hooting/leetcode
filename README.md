@@ -138,4 +138,4 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |274|[H-Index](https://leetcode.com/problems/h-index/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/H-Index.java)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/H-IndexII.java)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/FirstBadVersion.py)|Java|Easy|
-|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PerfectSquares.py)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PerfectSquares.py)|Java|Medium|
