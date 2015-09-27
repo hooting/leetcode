@@ -10,7 +10,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ZigZagConversion.cpp)|Python|Java|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ReverseInteger.cpp)|Python|Java|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/StringToInteger.cpp)|Python|Java|Easy|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/PalindromeNumber.cpp)|Python|Java|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/PalindromeNumber.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/PalindromeNumber.py)|Java|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RegularExpressionMatching.cpp)|Python|Java|Hard|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/IntegerToRoman.cpp)|Python|Java|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RomanToInteger.cpp)|Python|Java|Easy|
