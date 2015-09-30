@@ -82,6 +82,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CompareVersionNumbers.py)|Java|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FractionToRecurringDecimal.cpp)|Python|Java|Medium|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ExcelSheetColumnTitle.py)|Java|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/MajorityElement.py)|Java|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ExcelSheetColumnNumber.py)|Java|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/FactorialTrailingZeroes.py)|Java|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/DungeonGame.py)|Java|Hard|
