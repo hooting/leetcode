@@ -19,6 +19,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |15|[3Sum](https://leetcode.com/problems/3sum/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/3Sum.py)|Java|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/3SumClosest.py)|Java|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/LetterCombinationsOfAPhoneNumber.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LetterCombinationsPhoneNumber.py)|Java|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/4Sum.py)|Java|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/RemoveNthNodeFromEndOfList.cpp)|Python|Java|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MergeTwoSortedLists.cpp)|Python|Java|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/GenerateParentheses.cpp)|Python|Java|Medium|
