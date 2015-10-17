@@ -1,7 +1,7 @@
 /**
  * a1,a2,a3,a4,a5,...,aN
- * find such a pair (aj,ai),
- * where aj < ai.
+ * find such a pair (ai,aj),
+ * where ai < aj.
  * if there are many such pairs,
  * then find out the pair, where i is maxium
  * if there are many such pairs, (i,j1),(i,j2),....
