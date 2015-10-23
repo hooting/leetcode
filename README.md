@@ -36,6 +36,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LongestValidParentheses.py)|Java|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchInRotatedSortedArray.py)|Java|Hard|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchForARange.py)|Java|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchInsertPosition.py)|Java|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Python|Java|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Python|Java|Hard|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountAndSay.cpp)|Python|Java|Easy|
