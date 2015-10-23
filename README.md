@@ -34,6 +34,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SubstringWithConcatenationOfAllWords.py)|Java|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/NextPermutation.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/NextPermutation.py)|Java|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/LongestValidParentheses.py)|Java|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchInRotatedSortedArray.py)|Java|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Python|Java|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Python|Java|Hard|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountAndSay.cpp)|Python|Java|Easy|
