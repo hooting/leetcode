@@ -37,7 +37,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchInRotatedSortedArray.py)|Java|Hard|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchForARange.py)|Java|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/SearchInsertPosition.py)|Java|Medium|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|Python|Java|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ValidSudoku.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ValidSudoku.py)|Java|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/SudokuSolver.cpp)|Python|Java|Hard|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CountAndSay.cpp)|Python|Java|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSum.cpp)|Python|Java|Medium|
