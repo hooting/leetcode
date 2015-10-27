@@ -43,6 +43,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSum.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CombinationSum.py)|Java|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumII.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CombinationSumII.py)|Java|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/FirstMissingPositive.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/FirstMissingPositive.py)|Java|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/TrappingRainWater.py)|Java|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/MultiplyStrings.cpp)|Python|Java|Medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/WildcardMatching.py)|Java|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/JumpGameII.cpp)|Python|Java|Hard|
