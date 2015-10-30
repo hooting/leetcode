@@ -123,7 +123,7 @@ Welcome to the [LeetCode](https://leetcode.com/problemset/algorithms/) Solutions
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/WordSearchII.py)|Java|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/HouseRobberII.py)|Java|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|C++|Python|[Java](https://github.com/hooting/leetcode/blob/master/java_src/KthLargestElementInAnArray.java)|Medium|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|Python|Java|Medium|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/CombinationSumIII.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/CombinationSumIII.py)|Java|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicate.cpp)|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ContainsDuplicate.py)|Java|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/hooting/leetcode/blob/master/cpp_src/ContainsDuplicateII.cpp)|Python|Java|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|C++|[Python](https://github.com/hooting/leetcode/blob/master/python_src/ContainsDuplicateIII.py)|Java|Medium| 
